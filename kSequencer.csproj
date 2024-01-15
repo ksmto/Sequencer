@@ -518,9 +518,6 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Examples\SequencerItemExample.cs" />
-        <Compile Include="Examples\SequencerSpellExample.cs" />
-        <Compile Include="Examples\SequencerThunderScriptExample.cs" />
         <Compile Include="Sequencer.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
