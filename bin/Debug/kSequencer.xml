@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>kSequencer</name>
+    </assembly>
+    <members>
+        <member name="T:kSequencer.Sequencer">
+            <summary>
+            Allows the user to check if a "sequence" happened
+            </summary>
+        </member>
+        <member name="M:kSequencer.Sequencer.Start">
+            <summary>
+            Creates an instance of the sequencer (use this in a Start method, NEVER in Update)
+            </summary>
+            <returns>A instance of the sequencer</returns>
+        </member>
+        <member name="M:kSequencer.Sequencer.If(System.Func{System.Boolean})">
+            <summary>
+            Uses the sequencer to check if a condition was met
+            </summary>
+            <param name="condition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:kSequencer.Sequencer.While(System.Func{System.Boolean})">
+            <summary>
+            Uses the sequencer to check if a condition was met but in a while loop
+            </summary>
+            <param name="condition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:kSequencer.Sequencer.Do(System.Action)">
+            <summary>
+            Uses the sequencer to do an action
+            </summary>
+            <param name="action"></param>
+            <returns></returns>
+        </member>
+        <member name="M:kSequencer.Sequencer.Update">
+            <summary>
+            Updates the sequencer (use in an Update method for the sequencer to work properly)
+            </summary>
+        </member>
+    </members>
+</doc>
