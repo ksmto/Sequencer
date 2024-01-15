@@ -11,3 +11,5 @@ Q
 !Examples/SequencerSpellExample.cs,1\3\13c8b39a9cd4b231b8ac508b5e66578c00314a1a
 Y
 )Examples/SequencerThunderScriptExample.cs,2\d\2dd16e319f76763acaebc8b6665c7df796ea720c
+A
+kSequencer.csproj,6\0\60ea02327fa18311c25dfec852b13e7a0f696bf4

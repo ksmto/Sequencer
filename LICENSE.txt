@@ -1,0 +1,11 @@
+Custom License by ksmto
+
+Copyright (c) 2023 ksmto. All rights reserved.
+
+This license grants you a personal, non-exclusive, non-transferable license to use, copy, modify, and distribute the content, program, and/or software (hereinafter referred to as "the Software") solely for educational purposes, or personal use, subject to the terms and conditions set forth herein.
+You shall not use the Software for any malicious or unauthorized purposes. The Software shall only be obtained from the official Blade & Sorcery Discord server and/or GitHub repository, and any reproduction or distribution by parties other than the original creator (ksmto) is strictly prohibited.
+The Software is intended for educational purposes and/or personal use. If used for personal use, you are required to provide appropriate credit to the original software maker (ksmto).
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The author (ksmto) shall not be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+This license is effective until terminated. The author (ksmto) reserves the right to terminate your license at any time if you fail to comply with the terms and conditions of this license.
+
+By using the Software, you agree to be bound by the terms and conditions of this license.
