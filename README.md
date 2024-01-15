@@ -1,6 +1,6 @@
 This tool is meant to allow modders to check if a sequence has happen, in an easy and versitile way.
 
-Links:
+
 
 Blade & Sorcery Discord server: https://discord.gg/bladeandsorcery
 
