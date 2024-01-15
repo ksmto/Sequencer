@@ -8,4 +8,6 @@ The Software is intended for educational purposes and/or personal use. If used f
 The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The author (ksmto) shall not be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 This license is effective until terminated. The author (ksmto) reserves the right to terminate your license at any time if you fail to comply with the terms and conditions of this license.
 
+If you ask as to why this was created, even though lyneca has his own version. I do not believe his was open source and his was more advanced, so I created this, a more user friendly version.
+
 By using the Software, you agree to be bound by the terms and conditions of this license.
